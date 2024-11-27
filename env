@@ -1,0 +1,4 @@
+DATABASE_URL=postgres://user:password@db_host/db_name
+DATABASE_PREFIX=oc_
+REDIS_URL=redis://redis_host
+NEXTCLOUD_URL=https://cloud.example.com
